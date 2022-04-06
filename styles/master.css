@@ -1,0 +1,23 @@
+.head{
+
+    color: brown;
+    background-color: aqua;
+}
+
+
+.navbar{
+    border: 2px red  dotted;
+}
+
+
+.navbar li a{
+    text-decoration: none;
+    margin: 5px;
+    font-size: large;
+    color: green;
+}
+
+.navbar li {
+    display: inline-block;
+
+}
